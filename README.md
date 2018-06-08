@@ -1,6 +1,8 @@
 # Assesment-1---DS
 
-Dataset Description: We have data of sales (in thousands of units) for a toothbrush company as a function of marketing budgets (in thousands of dollars) for TV, radio, and newspaper media. Suppose that in you role as statistical consultant you are asked to suggest, on the basis of this data, a marketing plan for next year that will result in high product sales. Specifically, how would you distribute the marketing budget of $100,000 next year in order to maximize toothbrush sales?
+*Dataset Description:*
+
+We have data of sales (in thousands of units) for a toothbrush company as a function of marketing budgets (in thousands of dollars) for TV, radio, and newspaper media. Suppose that in you role as statistical consultant you are asked to suggest, on the basis of this data, a marketing plan for next year that will result in high product sales. Specifically, how would you distribute the marketing budget of $100,000 next year in order to maximize toothbrush sales?
 
 To answer this question, apply a linear regression and think of the following:
 
