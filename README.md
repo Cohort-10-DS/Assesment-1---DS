@@ -14,3 +14,5 @@ You have two tasks:
 1) Split 20% of data into test data, minimize the Root-Mean-Square-Error (RMSE). The student with the lowest score is assigned a 100% score. 
 
 2) Suggest how $100,000 of budget should be allocated across Television, Radio,  Newspaper in order to maximize sales. 
+
+Submit your notebook by Midnight on Sunday by making a named branch in this repository. 
